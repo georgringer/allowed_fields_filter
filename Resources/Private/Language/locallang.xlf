@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="messages" date="2026-10-14T00:00:00Z" product-name="allowed_fields_filter">
+    <header/>
+    <body>
+      <trans-unit id="non_exclude_fields.description">
+        <source>Allow fields that are excluded in forms by default for non-admin users. Only tables with the table permission "select" or "modify" are listed. Save the group after changing the table permissions to update this list.</source>
+      </trans-unit>
+      <trans-unit id="group.noTablePermission">
+        <source>no table permission</source>
+      </trans-unit>
+      <trans-unit id="group.empty">
+        <source>No fields available. Set the table permission "Read" or "Read &amp; Write" for a table and save the group.</source>
+      </trans-unit>
+      <trans-unit id="warning.title">
+        <source>Fields without table permission</source>
+      </trans-unit>
+      <trans-unit id="warning.message">
+        <source>Fields are allowed for tables without table permission: %s. Only the already allowed fields are shown, remove them or grant the table permission.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
