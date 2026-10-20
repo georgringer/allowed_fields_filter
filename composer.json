@@ -1,5 +1,5 @@
 {
-    "name": "georgringer/allowed_fields_filter",
+    "name": "georgringer/allowed-fields-filter",
     "description": "List only fields of permitted tables in the \"Allowed fields\" of backend user groups",
     "license": "GPL-2.0-or-later",
     "type": "typo3-cms-extension",
