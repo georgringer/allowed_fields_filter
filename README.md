@@ -16,7 +16,7 @@ Supported TYPO3 version: 14.3 LTS
 ## Installation
 
 ```bash
-composer require georgringer/allowed_fields_filter
+composer require georgringer/allowed-fields-filter
 ```
 
 The extension is not available on Packagist yet. Until then, add the repository
